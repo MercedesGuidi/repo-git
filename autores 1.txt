@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 este es mi conflicto
+=======
+y éste es el mío
+>>>>>>> d6b3fb8303fd49a9ba95c09be0fe95d025101f5e
